@@ -1,0 +1,53 @@
+@charset "utf-8";
+/*样式重置*/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,form,input,p,th,td {  margin:0;  padding:0;  }
+table {border-collapse:collapse;border-spacing:0;}
+img,input{ border:0;}
+ol,ul {list-style:none;}
+a{color: #333;text-decoration: none;}
+h1,h2,h3,h4,h5,h6 {font-size:100%;font-weight:normal;}
+.fl{float: left;}
+.fr{float: right;}
+.cl{clear: both;}
+/*通用页面部分的样式*/
+body{  width: 100%;  min-width: 1380px;  font-family: "微软雅黑";  font-size: 14px; }
+/*页面通用宽度*/
+.kuan{width: 1006px;margin: 0 auto;}
+.toubu{height: 135px;}
+.logo{margin-top: 19px;}
+.dianhua{line-height: 135px;font-size: 16px;color: #000;}
+.dianhua span{color: #e10808;font-size: 24px;}
+/*导航栏*/
+nav{height: 52px;width: 100%;background-color: #222;}
+nav li{float: left;}
+nav a{color: #fff;padding: 0 20px;display: inline-block;height: 52px;line-height: 52px;}
+nav a:hover,.xuanzhong{background-color: #db0000;}
+/*搜索框*/
+nav form{ margin-top: 10px; }
+.text{height: 26px;width: 170px;padding-left: 8px;outline: none; background-image: url("../images/ShouYe/shouye06.png");}
+.btn{height: 26px;width: 42px;cursor: pointer;outline: none; background-image: url("../images/ShouYe/shouye08.png");}
+/*通用页脚*/
+.footer{height: 270px;background: #222;font-size: 12px;color: #fff;}
+.footNav{height: 66px;width: 1380px;margin: 0 auto;border-bottom: 1px solid #6c6c6c;}
+.footNav ul{margin-left: 420px;}
+.footNav li{float: left;}
+.footNav a{color: #fff;padding: 0 20px;line-height: 66px;}
+/*公司基本信息*/
+.xinxi{margin-top: 46px;}
+.xiaoLogo{margin:10px 38px 0 0;}
+.xinxi p{height: 26px;line-height: 26px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

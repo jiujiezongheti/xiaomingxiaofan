@@ -1,0 +1,33 @@
+@charset "utf-8";
+/*广告*/
+.guanggao img,.yiwen img,.darou img{width: 100%;vertical-align: bottom;}
+/*电缆介绍*/
+.dianlan{padding-top: 75px;font-size: 12px;}
+/*目录部分*/
+.mulu{width: 240px;}
+.mulu h3{background: #2b2929;border-radius: 3px 3px 0 0;text-align: center;line-height: 41px;font-size: 16px;color: #fff;}
+.juan{ background: #c7c5c5;padding-bottom: 35px;}
+.juan p,.tuolian p{color: #2b2929;line-height: 37px; border-bottom: 1px dashed #9d9b9b;padding-left: 46px;}
+.tuolian{background: #c7c5c5;padding-bottom: 17px;}
+/*介绍部分*/
+.jieshao1{margin-top: 10px;}
+.jieshao2{margin-top: 28px;}
+.jieshao1,.jieshao2{padding:0 0 24px 23px;border-bottom: 1px dotted #8c8c8c;width: 100%;}
+.tupian img{vertical-align: bottom;}
+.tupian p{height: 32px;line-height: 32px;width: 341px;background: #616161;color: #fff;text-align: center;}
+.wenzi{margin-left: 42px;}
+.wenzi h3{color: #000;}
+.jianju{margin-top: 32px;}
+.wenzi p{color: #555454;width: 312px;line-height: 24px;}
+.wenzi a{display: inline-block;height: 22px;line-height: 22px; width: 80px;border: 1px solid #aaa;border-radius: 3px;text-align: center;}
+.wenzi a{margin-top: 24px;}
+/*产品中心*/
+.chanpin{margin-bottom: 96px;}
+.chanpin h2{margin: 15px 0 17px;height: 47px;width: 240px;line-height: 47px;font-size: 16px;color: #fff;background: #2b2929;text-align: center;}
+.chanpin div{float: left;margin-right: 15px;}
+.chanpin .quxiaobianju{margin: 0;}
+/*优势*/
+.youshi h3{margin: 62px auto 24px;width: 395px;}
+.youshiWenzi p{padding-left: 92px;background: url("../images/ShouYe/shouye_72.gif")no-repeat 69px 6px;  width: 416px;line-height: 24px;color: #000;margin: 26px 0;}
+.youshiWenzi span{color:#e40202;}
+.y34{margin-top: 15px;}

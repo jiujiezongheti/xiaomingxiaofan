@@ -1,0 +1,17 @@
+.lunbo img{width: 100%;margin-bottom: 20px;float: left;}
+.hid{display: none;}
+.lunbo{text-align: center;margin-bottom: 150px;}
+.lunbo span{display: inline-block;width: 62px;height: 10px;background: #c3c3c3;cursor: pointer;}
+.lunbo .cursor{background: #01b5eb;}
+.fuwu{width: 1000px;margin: 0 auto 370px;text-align: center;line-height: 20px; color: #707070;}
+.fuwu h3{font-size: 18px;font-family: "微软雅黑";margin-top: 34px;}
+.fuwu h3 a{color: #000;}
+.fuwu h4{font-family: Arial;}
+.fuwu h4 a{color: #707070;}
+.fw1,.fw4{width: 200px;}
+.fw2,.fw3{width: 300px;}
+.fw1 p{color: #01b5eb;}
+.fw4 a{color: #fff;font-family: "微软雅黑";margin-top: 50px;display: inline-block;
+    width: 162px;height: 32px;line-height: 32px;background: #01b5eb;text-align: center;border-radius: 16px;}
+.banner{width: 1000px;margin: 0 auto;}
+.banner img{margin: 0 auto 180px;}
