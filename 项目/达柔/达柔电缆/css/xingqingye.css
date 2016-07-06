@@ -1,0 +1,30 @@
+@charset "utf-8";
+/*广告*/
+.banner img{width: 100%;margin-bottom: 50px;}
+/*子导航部分*/
+.productCenter{width: 217px;height: 56px;background: #222;text-align: center;color: #fff;line-height: 2em;border-radius: 5px 5px 0 0;}
+.productCenter h3{font-size: 16px;}
+.productCenter h4{font-family: Arial;font-size: 14px;}
+.sub1Nav{border: 1px solid #d5d5d5;width: 190px;padding: 10px 0 6px 26px;}
+.sub1Nav li{width: 166px;text-align: center;cursor: pointer;}
+.sub1Nav ol li{background: #e5e5e5;border-bottom: 1px dashed #d5d5d5;height: 44px;line-height: 44px;}
+.sub1Nav ol li:first-child{background: #eee;border: 1px solid #d5d5d5;height: 34px;line-height: 34px;}
+.sub1Nav ol li:first-child a{color: #e70202;}
+.sub1Nav ol li:last-child{border-bottom: none;}
+.sub1Nav ul li{background: #f1f1f1;border: 1px solid #d5d5d5;margin-bottom: 6px;height: 34px;line-height: 34px;}
+/*热线*/
+.phone{width: 215px;height: 70px;border: 1px solid #d5d5d5;text-align: center;margin-top: 11px;margin-bottom: 53px; padding-top: 23px;}
+.phone span{font-weight: 600;font-size: 18px;color:#e70202;}
+/*图片*/
+.shangping{padding-left: 24px;width: 762px;}
+.shangping h4{border-bottom: 2px solid #d9d9d9;width: 762px;padding-top: 6px;line-height: 24px;}
+.shangping h4 span{color: #f00;}
+.shangping h4 a{color: #000;}
+/*商品详情展示*/
+.main1{margin-top: 30px;}
+.main1 h3{text-align: center;width: 410px;font-weight: 900;margin-bottom: 30px;}
+.main1 span{font-size: 12px;font-weight: 600;}
+.main1 p{font-size: 12px;width: 410px;line-height: 24px;margin-bottom: 30px;}
+.main1 .main2{width: 764px;}
+.main1 .main2 p{padding-left: 22px;width: 750px;margin: 15px 0;}
+.main1 .main2 h5{padding:0 0 5px 22px;color: #e70202;font-size: 16px;font-weight: 800;border-bottom: 2px solid #d8d8d8;margin: 30px 0 0;}
