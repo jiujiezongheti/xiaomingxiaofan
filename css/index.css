@@ -1,0 +1,56 @@
+.difang{
+    width: 240px;
+    height: 240px;
+    margin: 0 auto;
+    position: relative;
+    border: 1px solid #4f8c00;
+    margin-top: 50px;
+}
+h1{
+    height: 22px;
+    line-height: 22px;
+    width: 22px;
+    font-size: 18px;
+    background: #01b5eb;
+    text-align: center;
+    border: 1px solid #4f8c00;
+    color: #8adaf8;
+    position: absolute;
+}
+span{
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    width: 24px;
+    border: 1px solid #01b5eb;
+    cursor: pointer;
+    margin: 5px;
+}
+#btn{
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body{
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
