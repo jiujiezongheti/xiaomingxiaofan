@@ -14,6 +14,7 @@ h1{
     background: #01b5eb;
     text-align: center;
     border: 1px solid #4f8c00;
+    border-radius: 50%;
     color: #8adaf8;
     position: absolute;
 }
