@@ -1,0 +1,44 @@
+.content{
+    width: 456px;
+    height: 432px;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+#zhezao{
+    z-index: 10;
+    top: -342px;
+    left: -526px;
+    position: absolute;
+
+}
+p{
+    width: 456px;
+    line-height: 24px;
+    height: 24px;
+    text-align: center;
+    letter-spacing: 8px;
+}
+h1{
+    height: 22px;
+    line-height: 22px;
+    width: 22px;
+    font-size: 18px;
+    background: #01b5eb;
+    text-align: center;
+    border: 1px solid #4f8c00;
+    border-radius: 50%;
+    color: #8adaf8;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
