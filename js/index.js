@@ -10,28 +10,41 @@ window.onload= function () {
             if(this.innerHTML=="上"){
                 t -= 24;
                 if(t<0||t>=240){
-                    alert("撞墙了");
+                    alert("撞墙了，点击确定重新开始");
                     t +=24;
+                    location.reload();
                 }else{ M.style.top=t+"px";}
             }else if(this.innerHTML=="左"){
                 l -= 24;
                 if(l<0||l>=240){
-                    alert("撞墙了");
+                    alert("撞墙了,点击确定重新开始");
                     l +=24;
+                    location.reload();
                 }else{ M.style.left=l+"px";}
             }else if(this.innerHTML=="右"){
                 l += 24;
                 if(l<0||l>=240){
-                    alert("撞墙了");
+                    alert("撞墙了，点击确定重新开始");
                     l -=24;
+                    location.reload();
                 }else{ M.style.left=l+"px";}
             }else if(this.innerHTML=="下"){
                 t += 24;
                 if(t<0||t>=240){
-                    alert("撞墙了");
+                    alert("撞墙了，点击确定重新开始");
                     t -=24;
+                    location.reload();
                 }else{ M.style.top=t+"px";}
             }
         }
     }
 };
+
+
+
+
+
+
+
+
+
