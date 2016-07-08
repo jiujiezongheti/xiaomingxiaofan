@@ -1,24 +1,21 @@
+body{
+    background: #000;
+}
 .content{
     width: 456px;
     height: 432px;
-    margin: 0 auto;
+    margin: 120px auto 0;
     overflow: hidden;
     position: relative;
 }
 #zhezao{
     z-index: 10;
     top: -342px;
-    left: -526px;
+    left: -522px;
     position: absolute;
 
 }
-p{
-    width: 456px;
-    line-height: 24px;
-    height: 24px;
-    text-align: center;
-    letter-spacing: 8px;
-}
+
 h1{
     height: 22px;
     line-height: 22px;
@@ -30,6 +27,8 @@ h1{
     border-radius: 50%;
     color: #8adaf8;
     position: absolute;
+    top: 408px;
+    left: 216px;
 }
 
 
